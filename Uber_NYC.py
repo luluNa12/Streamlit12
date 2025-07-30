@@ -2,7 +2,8 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 
-st.title('Uber pickups in NYC\nLina was here')
+st.title('Uber pickups in NYC')
+st.title('\nLina was here')
 
 
 st.write('Hello, * World! * :sunglasses:')
