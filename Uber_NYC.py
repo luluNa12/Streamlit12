@@ -8,7 +8,7 @@ st.title('Lina was here')
 
 st.write('Hello, * World! * :sunglasses:')
 st.write('Hello, * World! * :heart:')
-st.write('Thank you so very much, * for all you do! * :pray:')
+st.write('Chris, thank you so very much, * for all you do! * :pray:')
 
 DATE_COLUMN = 'date/time'
 DATA_URL = ('https://s3-us-west-2.amazonaws.com/'
